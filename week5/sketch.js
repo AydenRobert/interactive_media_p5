@@ -311,7 +311,7 @@ function drawInstructions() {
     textSize(30);
     textStyle(BOLD);
 
-    text("Press 'r' to randomsise.", 20, height - 20);
+    text("Press 'r' to randomise.", 20, height - 20);
     text("Depth: " + maxDepth + " ( , and  . )", 20, height - 60);
 
     pop();
